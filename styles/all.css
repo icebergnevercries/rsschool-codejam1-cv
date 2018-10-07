@@ -269,3 +269,22 @@ ul.examples li a {
 ul.examples li:hover a {
     color: #dd6508;
 }
+
+ul.education {
+    padding: 0 0 0 40px;
+}
+
+ul.education li {
+    padding-bottom: 10px;
+    list-style: none;
+    color: #9f9c99;
+}
+
+ul.education li a {
+    text-decoration: none;
+    color: #f8a816;
+}
+
+ul.education li:hover a {
+    color: #dd6508;
+}
