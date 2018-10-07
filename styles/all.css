@@ -296,3 +296,23 @@ ul.education li:hover a {
 .eng-level p {
     color: #9f9c99;
 }
+
+footer {
+    min-height: 100px;
+    background-color: rgba(230, 230, 230, 1);
+}
+
+footer p {
+    color: #444141;
+    padding: 10px 0 5px 40px; 
+}
+
+.grid-footer a {
+    color: #f8a816;
+    text-decoration: none;
+    padding-left: 40px;
+}
+
+.grid-footer a:hover {
+    color: #dd6508;
+}
