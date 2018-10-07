@@ -303,14 +303,14 @@ footer {
 }
 
 footer p {
-    color: #444141;
     padding: 10px 0 5px 40px; 
+    color: #444141;
 }
 
 .grid-footer a {
-    color: #f8a816;
-    text-decoration: none;
     padding-left: 40px;
+    text-decoration: none;
+    color: #f8a816;
 }
 
 .grid-footer a:hover {
